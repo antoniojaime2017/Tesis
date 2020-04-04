@@ -1,2 +1,2 @@
 # Tesis
- Aplicación Móvil para la Seguridad Vial Turística del Estado de Zacatecas
+ Aplicación Móvil en Android para Ofrecer Rutas Seguras en el Estado de Zacatecas
